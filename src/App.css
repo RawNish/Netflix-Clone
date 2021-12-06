@@ -1,0 +1,8 @@
+*{
+  margin:0; 
+  font-family: 'Roboto', sans-serif;
+  /* font-weight:900 */
+}
+.App{
+ background-color: #111;
+}
